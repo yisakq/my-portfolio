@@ -1,11 +1,12 @@
 import { FaCss3, FaGithub, FaHackerrank, FaHtml5, FaJs, FaReact, FaFigma, FaSass, FaDocker, } from "react-icons/fa"
-import {BiLogoTailwindCss,BiLogoDjango, BiLogoTypescript, BiLogoCPlusPlus, BiLogoNodejs, BiLogoAmazon, BiDice2, BiLogoWordpress, BiLogoPostgresql, BiLogoCodepen, BiLogoGit, BiLogoDocker} from 'react-icons/bi'
-import {DiMongodb, DiMysql} from 'react-icons/di'
-import { SiInsomnia,SiSanity, SiSolidity } from "react-icons/si";
+import {BiLogoTailwindCss,BiLogoDjango, BiLogoTypescript, BiLogoCPlusPlus, BiLogoNodejs, BiLogoAmazon, BiDice2, BiLogoWordpress, BiLogoPostgresql, BiLogoCodepen, BiLogoGit, BiLogoDocker, BiLogoFirebase} from 'react-icons/bi'
+import {DiFirebase, DiMongodb, DiMysql} from 'react-icons/di'
+import { SiFirebase, SiInsomnia,SiSanity, SiSolidity } from "react-icons/si";
 import { RiNextjsFill } from "react-icons/ri";
 import { CodeIcon, DesignIcon, ProjectsIcon, github, linkedin } from "../icons"
 import { derash, pictoria, ecommerce, design, talari, reve, mobile, login } from "../images"
 import { FaF } from "react-icons/fa6"
+import { IoLogoFirebase } from "react-icons/io5";
 
 const menuLinks=[
     {
@@ -164,10 +165,11 @@ const usedTechs=[
     SiSanity,
     BiLogoTailwindCss,
     FaSass,
-    DiMysql,
+    IoLogoFirebase,
     DiMongodb,
     BiLogoDocker,
-    SiSolidity
+    SiSolidity,
+   
   
    
     
