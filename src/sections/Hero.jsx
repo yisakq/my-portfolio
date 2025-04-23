@@ -39,7 +39,7 @@ const Hero = () => {
         </div>
         <img
           src={hero_avatar}
-          className='basis-1/3 w-[400px] max-lg:w-[400px] max-sm:w-[300px] transition-transform duration-1000 ease-in-out transform hover:scale-110'
+          className='basis-1/3 w-[400px] transition-transform duration-1000 ease-in-out transform hover:scale-110' // Add zoom effect
           alt="Hero Avatar"
           width={400}
         />

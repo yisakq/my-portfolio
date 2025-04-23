@@ -193,8 +193,7 @@ const academics=[
     {
         heading:"UI/UX Design with Figma",
         description:"I earned a certification in UI/UX Design from Udemy, where I gained valuable skills in creating user-centered designs and enhancing user experiences.",
-        duration:"Aug 2024",
-        
+        duration:"Aug 2024", 
     },
     {
         heading:"Canva Course for Graphics Design ",
