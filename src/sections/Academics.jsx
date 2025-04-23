@@ -1,5 +1,6 @@
 import React from 'react'
 import { academics, career } from '../assets/constants'
+import { TbH4 } from 'react-icons/tb'
 
 const Academics = () => {
   return (
@@ -37,6 +38,7 @@ const Academics = () => {
               career.map((carrier) => (
                 <div className='border border-secondary border-opacity-50 flex flex-col hover:bg-secondary hover:bg-opacity-20  gap-4 p-6  justify-between items-start rounded-xl'>
                   <h4 className='text-white text-xl font-bold'>{carrier.heading}</h4>
+                  <h5 className='text-white text-base italic font-serif'>{carrier.headingtwo}</h5>
                   <p className='text-xm text-white text-opacity-50 font-extralight text-left'>{carrier.description}</p>
                   <div className='flex flex-row w-full justify-between text-secondary'>
                     <p className='text-xm font-normal'>{carrier.duration}</p>

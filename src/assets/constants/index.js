@@ -181,42 +181,54 @@ const academics=[
     {
         heading:"Bachelor's degree in Computer Science",
         description:"Recently graduated from Bahir Dar University with a strong academic record, achieving a CGPA of 3.77. This accomplishment reflects my dedication to my studies and my commitment to excellence in my field.",
-        duration:"Oct/2019 · July/2024",
+        duration:"Oct 2019 · July 2024",
+        
+    },
+    {
+        heading:"McKinsey Forward Program ",
+        description:"I earned a McKinsey Forward Program Badge from McKinsey & Company, where I developed key skills in adaptability, effective communication, relationship building, and problem-solving, while also learning how to navigate the modern digital world through interactive, real-world learning experiences.",
+        duration:"Dec 2024",
         
     },
     {
         heading:"UI/UX Design with Figma",
         description:"I earned a certification in UI/UX Design from Udemy, where I gained valuable skills in creating user-centered designs and enhancing user experiences.",
-        duration:"Aug/2024",
+        duration:"Aug 2024",
         
     },
     {
         heading:"Canva Course for Graphics Design ",
         description:"Completed the Essential Canva Course on Udemy, gaining valuable skills in crafting striking visuals and graphics.",
-        duration:"Nov/2023",
+        duration:"Nov 2023",
+    
+    },
+    {
+        heading:"Project Management Essentials",
+        description:"I received my certification in Project Management Essentials from the Management and Strategy Institute (MSI), gaining a solid foundation in project planning, execution, and management principles.",
+        duration:"Oct 2023",
     
     },
     {
         heading:"Google Analytics Cerification ",
         description:"I received my certification in Google Data Analytics from Google, where I learned how to analyze and interpret data effectively.",
-        duration:"Oct/2023",
+        duration:"Oct 2023",
     
     },
+   
 ]
 const career=[
     {
-        heading:"Flutter Developer & UI Designer",
-        description:"I spearheaded the design and development of a professional crowdfunding app using Flutter, focusing on creating responsive and user-friendly front-end interfaces for both web and mobile applications. I successfully designed and implemented the mobile application, ensuring optimal user experience and functionality. Collaborating with cross-functional teams, I gathered requirements and translated them into effective technical solutions. Additionally, I conducted thorough testing and debugging to guarantee the highest quality of deliverables.",
-        duration:"July - September 2023",
-
-
+        heading:"Software Engineer",
+        headingtwo:"Moti Engineering Plc",
+        description:"I am currently involved in the implementation of the Customer Visit Management System for banks, focusing on the installation, configuration, and troubleshooting of integrated software, hardware, and networking components. My responsibilities include supporting API integrations with a variety of banking machines, such as ATMs, self-service kiosks, bulk deposit units, recyclers, and ITMs, to ensure smooth interoperability. Additionally, I contribute to the development of in-house software solutions aimed at enhancing operational efficiency, streamlining workflows, and addressing specific challenges within the organization.",
+        duration:"December 2024 - Current",
         
-    },{
-        heading:"Self-Employed Project Developer",
-        description:"Computer Science graduate skilled in React, Node.js, and modern web technologies. Proven ability to independently conceptualize, develop, and implement projects. Eager to apply expertise to dynamic, collaborative projects in a professional setting.",
-        duration:"",
-        date:"Ongoing"
-
+    }, {
+        heading:"App Developer & UI Designer",
+        headingtwo:"Ewenet Communication Plc",
+        description:"I contributed to the design and development of a professional crowdfunding application using Flutter, with a focus on building responsive, user-friendly interfaces for both web and mobile platforms. My work primarily involved implementing the mobile application to ensure a seamless user experience and reliable functionality. Working closely with cross-functional teams, I helped gather and analyze requirements, translating them into effective technical implementations.",
+        duration:"July 2023 - September 2023",
+        
     }
 ]
 
